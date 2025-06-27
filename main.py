@@ -1,7 +1,7 @@
 # AI-powered Text-based Adventure Game
 import random
 import time
-#first run pip install colorama, then pip install termcolor
+#actually requirwments.txt is beter bc of building adn studf
 import colorama
 from termcolor import colored
 
